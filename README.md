@@ -30,7 +30,8 @@ I'm Harsh Chaturvedi and I'm Full Stack Web Developer, a passionate coder, and c
 
 ### Github Stats and achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshchaturvedi1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=harshchaturvedi1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshchaturvedi1&layout=compact)
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchaturvedi1)](https://github.com/anuraghazra/github-readme-stats)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchaturvedi1)
 
